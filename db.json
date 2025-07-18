@@ -1,0 +1,232 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "453d",
+      "name": "User",
+      "email": "shubhmohite753@gmail.com",
+      "password": "smohite12",
+      "role": "user"
+    },
+    {
+      "id": "cf13",
+      "name": "test",
+      "email": "shubhmohite753@gmail.com",
+      "password": "smohite12",
+      "role": "user"
+    },
+    {
+      "id": "4836",
+      "name": "Saurabh",
+      "email": "test@test.com",
+      "password": "test",
+      "role": "user"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "React for Beginners",
+      "description": "Learn the basics of React.",
+      "type": "free",
+      "duration": 100,
+      "trainer": {
+        "name": "John Doed",
+        "expertise": "Frontend"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Programming 101",
+      "description": "Introduction to programming fundamentals for beginners.",
+      "type": "free",
+      "duration": 240,
+      "trainer": {
+        "name": "Bluelime Learning Solution",
+        "expertise": "Programming Fundamentals"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Introduction to Python Programming",
+      "description": "Learn the basics of Python programming language.",
+      "type": "free",
+      "duration": 90,
+      "trainer": {
+        "name": "Stanford Code in Place",
+        "expertise": "Python"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Crash Course on Python",
+      "description": "Quick dive into Python programming principles and problem solving.",
+      "type": "free",
+      "duration": 120,
+      "trainer": {
+        "name": "Google",
+        "expertise": "Python"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Coding Essentials - Logic Building for Beginners",
+      "description": "Develop coding logic and problem-solving skills for beginners.",
+      "type": "free",
+      "duration": 120,
+      "trainer": {
+        "name": "Multiple Instructors",
+        "expertise": "Programming Fundamentals"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Python for Data Science, AI & Development",
+      "description": "Learn Python for data science, AI and software development.",
+      "type": "free",
+      "duration": 240,
+      "trainer": {
+        "name": "IBM",
+        "expertise": "Python, Data Science"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Programming for Kids: Learn Scratch and Python",
+      "description": "Introduction to programming concepts using Scratch and Python for kids.",
+      "type": "paid",
+      "duration": 180,
+      "trainer": {
+        "name": "Bluelime Learning Solutions",
+        "expertise": "Kids Programming"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Advanced JavaScript and React",
+      "description": "Deep dive into advanced JavaScript concepts and React framework.",
+      "type": "paid",
+      "duration": 150,
+      "trainer": {
+        "name": "Craig Blewett",
+        "expertise": "JavaScript, React"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Data Analysis with R Programming",
+      "description": "Learn data analysis and visualization using R programming.",
+      "type": "free",
+      "duration": 180,
+      "trainer": {
+        "name": "Google",
+        "expertise": "R Programming, Data Science"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Create Your First Python Program",
+      "description": "Step-by-step guided project to write your first Python program.",
+      "type": "free",
+      "duration": 60,
+      "trainer": {
+        "name": "Coursera Project Networkk",
+        "expertise": "Python"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Introduction to Programming with Python",
+      "description": "Learn programming basics with Python from Harvard University.",
+      "type": "free",
+      "duration": 100,
+      "trainer": {
+        "name": "Harvard University",
+        "expertise": "Python"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Learn JavaScript Basics",
+      "description": "Beginner level course covering JavaScript essentials.",
+      "type": "free",
+      "duration": 90,
+      "trainer": {
+        "name": "Codecademy1",
+        "expertise": "JavaScript"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Introduction to C++ Programming",
+      "description": "Fundamentals of C++ programming language for beginners.",
+      "type": "paid",
+      "duration": 200,
+      "trainer": {
+        "name": "Udemy Instructor",
+        "expertise": "C++"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Programming Fundamentals with Python",
+      "description": "Basic programming concepts and problem-solving skills using Python.",
+      "type": "free",
+      "duration": 120,
+      "trainer": {
+        "name": "MIT OpenCourseWare",
+        "expertise": "Python"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Software Design Patterns and Principles",
+      "description": "Learn object-oriented design and software architecture patterns.",
+      "type": "paid",
+      "duration": 160,
+      "trainer": {
+        "name": "John Bura",
+        "expertise": "Software Design"
+      }
+    },
+    {
+      "id": "8d1c",
+      "title": "Hello Test",
+      "description": "test",
+      "type": "free",
+      "duration": 0,
+      "trainer": {
+        "name": "test",
+        "expertise": ""
+      }
+    },
+    {
+      "id": "5f21",
+      "title": "bootstrap",
+      "description": "pre-responsive for all screens",
+      "type": "free",
+      "duration": 0,
+      "trainer": {
+        "name": "leo",
+        "expertise": ""
+      }
+    },
+    {
+      "id": "46ba",
+      "title": "test22",
+      "description": "test",
+      "type": "free",
+      "duration": 0,
+      "trainer": {
+        "name": "test22",
+        "expertise": ""
+      }
+    }
+  ]
+}
