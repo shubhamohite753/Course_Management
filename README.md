@@ -5,14 +5,24 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run dev:all
 ```
+
+
+///-----------
+used concepts of Typescripts
+Interface
+Types
+Generics
+Union
+Intersection types
+Nullish Coalseing
+Type guards
+Discriminated Unions 
+Optional Chaining 
+Modules & NamesPaces
+Declartion Merging
+Ambients
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -36,16 +46,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more detail
 
 
-///-----------
-used concepts 
-Interface
-Types
-Generics
-Union
 
 
 
-
-pending--------
-Tuples
-ambeints
